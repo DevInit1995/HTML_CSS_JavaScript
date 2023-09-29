@@ -27,10 +27,15 @@ article{
     line-height: 18px;
 }
 
-.share-post{
+.share-post, 
+.links-title{
     font-size: 12px;
     font-weight: 600;
     line-height: 22px; 
+}
+
+.links-title{
+    margin-bottom: 12px;
 }
 
 .uppercase{
@@ -62,5 +67,26 @@ h1{
 }
 
 iframe{
-    margin: 50px;
+    margin: 50px 0;
+}
+
+footer{
+    background-color: #f1f1ff;
+    max-width: 680px;
+    margin: auto;
+    padding: 20px 15px;
+}
+
+footer ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+footer ul li{
+    margin-bottom: 12px;
+}
+
+footer ul li:last-of-type{
+    margin-bottom: 0;
 }
