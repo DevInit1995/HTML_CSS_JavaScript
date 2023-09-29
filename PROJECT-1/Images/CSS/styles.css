@@ -1,6 +1,7 @@
 /*External Style: Aplicando em um arquivo CSS  à parte*/
 body{
     margin: 0;
+    font-family: 'Nunito', sans-serif;
 }
 
 header{
