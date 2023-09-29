@@ -31,7 +31,14 @@ article{
     font-size: 12px;
     font-weight: 600;
     line-height: 22px; 
+}
+
+.uppercase{
     text-transform: uppercase;
+}
+
+.hero-image{
+    margin: 50px;
 }
 
 .hero-image img{
@@ -47,4 +54,13 @@ h1{
 
 #title-section{
     margin-bottom: 50px;
+}
+
+#content-section{
+    max-width: 680;
+    margin: auto;
+}
+
+iframe{
+    margin: 50px;
 }
